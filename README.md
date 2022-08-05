@@ -6,7 +6,7 @@ I'm a Computer Science Major student, and an aspiring Software Engineer.
 Currently, the languages I'm learning through a Web Development Bootcamp on Udemy are JavaScript and Python🐍 I'm also working on learning technologies such as React.JS / React Native / Node.JS / MongoDB  
 * 🌍  I'm based in Florida 
 * ✉️  You can contact me at [miguelcamilo48@gmail.com](mailto:miguelcamilo48@gmail.com) 
-* 🧠  I'm learning Web Development / JavaScript / Python 👨🏻‍💻 
+* 🧠  I'm learning Web Development / JavaScript / React.JS / ArcGIS / Python 👨🏻‍💻 
 * ⚡  Open to learning new skills, if you have any available resources for Computer Science Major feel free to message me!
 
 ### Skills
