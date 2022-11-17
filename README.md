@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel Camilo! 
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel Camilo! 
 Software Engineer 💻   
 👨🏻‍💻 Currently, I'm in a coding boot camp to accelerate and build on my current skills. 
 During this time period, I'm working on projects with the skills I'm learning in the Bootcamp. Feel free to look through my repositories and view my current projects and skills! 👋🏼  
