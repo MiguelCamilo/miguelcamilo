@@ -2,7 +2,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Software Engineer 💻   
 👨🏻‍💻 Currently, I'm in a Coding Boot Camp to accelerate and build on my current skills. 
 During this time period, I'm working on projects with the skills I'm learning in the boot camp. Feel free to look through my repositories and view my current projects and skills! 👋🏼  
-* 🌍  I'm based in I'm based in Florida 
+* 🌍  I'm based in Florida 
 * 🖥️  See my portfolio at [Personal Website](http://miguelcamilo.netlify.app) 
 * ✉️  You can contact me at [miguelcamilo48@gmail.com](mailto:miguelcamilo48@gmail.com ) 
 * 🚀  I'm currently working on [Expense Report Web App | React | M E R N Stack](http://github.com/MiguelCamilo/expense-report-webapp) 
