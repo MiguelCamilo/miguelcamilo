@@ -1,7 +1,6 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Miguel Camilo! 
 Software Engineer 💻   
-👨🏻‍💻 Currently, I'm in a Coding Boot Camp to accelerate and build on my current skills. 
-During this time period, I'm working on projects with the skills I'm learning in the boot camp. Feel free to look through my repositories and view my current projects and skills! 👋🏼  
+👨🏻‍💻 I am currently enrolled in a Coding Bootcamp to enhance and augment my existing skillset. As part of the program, I am actively working on various projects that allow me to apply and solidify the knowledge and techniques I am learning. You are welcome to browse my repositories and peruse the projects I am currently working on, as well as gain an understanding of the skills I am acquiring. 👋🏼  
 * 🌍  I'm based in Florida 
 * 🖥️  See my portfolio at [Developer Webstie](https://miguelcamiloportfolio.netlify.app) 
 * ✉️  You can contact me at [miguelcamilo48@gmail.com](mailto:miguelcamilo48@gmail.com ) 
