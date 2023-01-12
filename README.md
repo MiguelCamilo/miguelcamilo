@@ -1,4 +1,4 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Miguel Camilo! 
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Miguel Camilo! <br/>
 Software Engineer 💻   
  I am currently enrolled in a Coding Bootcamp to enhance and augment my existing skillset. As part of the program, I am actively working on various projects that allow me to apply and solidify the knowledge and techniques I am learning. You are welcome to browse my repositories and peruse the projects I am currently working on, as well as gain an understanding of the skills I am acquiring. 👋🏼  
 * 🌍  I'm based in Florida 
