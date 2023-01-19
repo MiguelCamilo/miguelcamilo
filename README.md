@@ -5,7 +5,7 @@ Software Engineer 💻   <br/>
 * 🖥️  See my portfolio at [Developer Webstie](https://miguelcamiloportfolio.netlify.app) 
 * ✉️  You can contact me at [miguelcamilo48@gmail.com](mailto:miguelcamilo48@gmail.com ) 
 * 🚀  I'm currently working on [Expense Report Web App | React | M E R N Stack](http://github.com/MiguelCamilo/expense-report-webapp) 
-* 🧠  I'm learning React | Mongo.DB | Express | Node
+* 🧠  I'm learning React | Mongo.DB | Firestore | Express | Node |
 
 ### Skills   
 
