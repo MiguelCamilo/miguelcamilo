@@ -3,8 +3,8 @@ Software Engineer 💻   <br/>
  I am currently enrolled in a Coding Bootcamp to enhance and augment my existing skillset. As part of the program, I am actively working on various projects that allow me to apply and solidify the knowledge and techniques I am learning. You are welcome to browse my repositories and peruse the projects I am currently working on, as well as gain an understanding of the skills I am acquiring. 👋🏼  
 * 🌍  I'm based in Florida 
 * 🖥️  See my portfolio at [Developer Webstie](https://miguelcamiloportfolio.netlify.app) 
-* ✉️  You can contact me at [miguelcamilo48@gmail.com](mailto:miguelcamilo48@gmail.com ) 
-* 🚀  I'm currently working on [Expense Report Web App | React | M E R N Stack](http://github.com/MiguelCamilo/expense-report-webapp) 
+* ✉️  You can contact me at [📩](mailto:miguelcamilo48@gmail.com ) 
+* 🚀  I'm currently working on [Expense Report Web App | M E R N Stack](http://github.com/MiguelCamilo/expense-report-webapp) 
 * 🧠  I'm learning React | Mongo.DB | Firestore | Express | Node |
 
 ### Skills   
