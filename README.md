@@ -16,9 +16,6 @@ Software Engineer 💻   <br/>
 
 <b>My GitHub Stats</b>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelcamilo&show_icons=true&locale=en&layout=compact" alt="miguelcamilo" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelcamilo&show_icons=true&locale=en" alt="miguelcamilo" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelcamilo&" alt="miguelcamilo" /></p>
-
