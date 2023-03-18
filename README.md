@@ -4,7 +4,6 @@ Software Engineer 💻   <br/>
 * 🌍  I'm based in Florida 
 * 🖥️  See my portfolio at [Developer Webstie](https://miguelcamilo.dev) 
 * ✉️  You can contact me at [📩](mailto:miguelcamilo48@gmail.com ) 
-* 🚀  I'm currently working on [Expense Report Web App | M E R N Stack](http://github.com/MiguelCamilo/expense-report-webapp) 
 * 🧠  I'm learning React | Mongo.DB | Firestore | Express | Node |
 
 ### Skills   
