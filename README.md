@@ -3,7 +3,7 @@ Full Stack Software Engineer 💻   <br/>
 * 🌍  I'm based in Florida 
 * 🖥️  See my portfolio at [Developer Webstie](https://miguelcamilo.dev) 
 * ✉️  You can contact me at [📩](mailto:miguelcamilo48@gmail.com ) 
-* 🧠  React || Typescript || NodeJS || ExpressJS ||  || React Native || Javascript ||  || MongoDB || SQL
+* 🧠  React || Typescript || NodeJS || ExpressJS || NextJS || React Native || Javascript ||  || MongoDB || SQL
 
 ### Skills   
 
